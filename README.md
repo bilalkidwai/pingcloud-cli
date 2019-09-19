@@ -15,7 +15,7 @@ Pingcloud-cli is CLI application to check latency and http trace from **AWS, GCP
 ```
 Thank you for using pingcloud-cli.
 pingcloud-cli is command line tools to check latency and http trace from AWS, GCP and Azure regions.
-You can download codes from https://github.com/reoim/pingcloud-cli
+You can download codes from https://github.com/bkidwai/pingcloud-cli
 Any feedback is welcome. (And stars..)
 
 Usage:
