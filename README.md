@@ -43,7 +43,7 @@ Use "pingcloud-cli [command] --help" for more information about a command.
 
 
 ## Installation
-1.  Run `git clone https://github.com/reoim/pingcloud-cli.git`
+1.  Run `git clone https://github.com/bkidwai/pingcloud-cli.git`
 2.  Run `GO111MODULE=on go mod vendor`
 3.  Run `go build -v`
 4.  Run `go install`
