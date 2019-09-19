@@ -3,7 +3,6 @@
 
 Pingcloud-cli is CLI application to check latency and http trace from **AWS, GCP and Azure** regions.
 
-This is a personal toy project. 
 
 Inspired by [GCPing](https://github.com/GoogleCloudPlatform/gcping), [httpstat-1](https://github.com/reoim/httpstat-1) and [AzureSpeed](https://github.com/blrchen/AzureSpeed).
 
